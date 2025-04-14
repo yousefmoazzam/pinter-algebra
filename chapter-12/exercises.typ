@@ -72,3 +72,6 @@ This covers all $x in ZZ$, and so any $x in ZZ$ must be in one of the $A_r$.
 
 Therefore, the set of subsets $brace.l A_0, A_1, A_2, A_3, A_4 brace.r$ are a partition of
 $ZZ$. $qed$
+
+The equivalence relation associated with this partition of $ZZ$ is that two elements
+$x, y in ZZ$ are equivalent if their remainders when divided by 5 are equal.
